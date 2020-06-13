@@ -1,7 +1,5 @@
 package base.serialize;
 
-import pattern.build.singleton.demo.LazySingleton;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
